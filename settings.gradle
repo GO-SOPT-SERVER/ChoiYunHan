@@ -1,0 +1,5 @@
+rootProject.name = 'gosopt'
+include 'core'
+include 'week1'
+include 'week2'
+
