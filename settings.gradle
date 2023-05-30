@@ -1,0 +1,4 @@
+rootProject.name = 'gosoptseminar'
+include 'seminar-domain'
+include 'seminar-api'
+

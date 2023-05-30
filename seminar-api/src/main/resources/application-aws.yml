@@ -1,0 +1,11 @@
+cloud:
+  aws:
+    stack:
+      auto: false
+    region:
+      static: ap-northeast-2
+    credentials:
+      access-key: AKIAV3EARTDFRPM572NB
+      secret-key: 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
+    s3:
+      bucket: gosopt-seminar-bucket
