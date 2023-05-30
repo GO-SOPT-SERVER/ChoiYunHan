@@ -1,0 +1,68 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"648319f9-03f9-492d-aa24-4ce8f560419c\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/README.md\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ExternalProjectsData\">\n    <projectState path=\"$PROJECT_DIR$\">\n      <ProjectState />\n    </projectState>\n  </component>\n  <component name=\"ExternalProjectsManager\">\n    <system id=\"GRADLE\">\n      <state>\n        <task path=\"$PROJECT_DIR$\">\n          <activation />\n        </task>\n        <task path=\"$PROJECT_DIR$/seminar-api\">\n          <activation />\n        </task>\n        <projects_view>\n          <tree_state>\n            <expand>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"gosoptseminar\" type=\"f1a62948:ProjectNode\" />\n              </path>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"gosoptseminar\" type=\"f1a62948:ProjectNode\" />\n                <item name=\"seminar-domain\" type=\"2d1252cf:ModuleNode\" />\n              </path>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"gosoptseminar\" type=\"f1a62948:ProjectNode\" />\n                <item name=\"seminar-domain\" type=\"2d1252cf:ModuleNode\" />\n                <item name=\"Dependencies\" type=\"6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode\" />\n              </path>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"gosoptseminar\" type=\"f1a62948:ProjectNode\" />\n                <item name=\"seminar-domain\" type=\"2d1252cf:ModuleNode\" />\n                <item name=\"Dependencies\" type=\"6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode\" />\n                <item name=\"compileClasspath\" type=\"62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode\" />\n              </path>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"gosoptseminar\" type=\"f1a62948:ProjectNode\" />\n                <item name=\"seminar-domain\" type=\"2d1252cf:ModuleNode\" />\n                <item name=\"Dependencies\" type=\"6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode\" />\n                <item name=\"runtimeClasspath\" type=\"62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode\" />\n              </path>\n              <path>\n                <item name=\"\" type=\"6a2764b6:ExternalProjectsStructure$RootNode\" />\n                <item name=\"gosoptseminar\" type=\"f1a62948:ProjectNode\" />\n                <item name=\"seminar-domain\" type=\"2d1252cf:ModuleNode\" />\n                <item name=\"Dependencies\" type=\"6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode\" />\n                <item name=\"testCompileClasspath\" type=\"62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode\" />\n              </path>\n            </expand>\n            <select />\n          </tree_state>\n        </projects_view>\n      </state>\n    </system>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"AnnotationType\" />\n        <option value=\"Enum\" />\n        <option value=\"Interface\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"JpbToolWindowState\">\n    <option name=\"isToolWindowVisible\" value=\"false\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2Q2nO4WKfTmppJ9qJ9m4dxQvAZI\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RequestMappingsPanelOrder0\": \"0\",\n    \"RequestMappingsPanelOrder1\": \"1\",\n    \"RequestMappingsPanelWidth0\": \"75\",\n    \"RequestMappingsPanelWidth1\": \"75\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"git-widget-placeholder\": \"week7\",\n    \"jdk.selected.JAVA_MODULE\": \"11\",\n    \"last_directory_selection\": \"/Users/yunhanchoi/TemplerArchive/GOSOPT/gosoptseminar/seminar-domain/src/main/java\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"project.structure.last.edited\": \"Modules\",\n    \"project.structure.proportion\": \"0.15\",\n    \"project.structure.side.proportion\": \"0.2\",\n    \"settings.editor.selected.configurable\": \"editor.preferences.fonts.default\",\n    \"spring.configuration.checksum\": \"5f1df4165e3374a34f0e6530c06bc48b\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RunManager\" selected=\"Gradle.gosoptseminar [dependencies]\">\n    <configuration name=\"gosoptseminar [dependencies]\" type=\"GradleRunConfiguration\" factoryName=\"Gradle\" temporary=\"true\">\n      <ExternalSystemSettings>\n        <option name=\"executionName\" />\n        <option name=\"externalProjectPath\" value=\"$PROJECT_DIR$\" />\n        <option name=\"externalSystemIdString\" value=\"GRADLE\" />\n        <option name=\"scriptParameters\" />\n        <option name=\"taskDescriptions\">\n          <list />\n        </option>\n        <option name=\"taskNames\">\n          <list>\n            <option value=\"dependencies\" />\n          </list>\n        </option>\n        <option name=\"vmOptions\" />\n      </ExternalSystemSettings>\n      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>\n      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>\n      <DebugAllEnabled>false</DebugAllEnabled>\n      <ForceTestExec>false</ForceTestExec>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"ApiApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"gosoptseminar.seminar-api.main\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.gosopt.seminarapi.ApiApplication\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.gosopt.seminarapi.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"DomainApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"gosoptseminar.seminar-domain.main\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.gosopt.seminardomain.DomainApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"GosoptseminarApplication\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" nameIsGenerated=\"true\">\n      <module name=\"gosoptseminar.main\" />\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.gosopt.gosoptseminar.GosoptseminarApplication\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Gradle.gosoptseminar [dependencies]\" />\n        <item itemvalue=\"Spring Boot.ApiApplication\" />\n        <item itemvalue=\"Spring Boot.DomainApplication\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"648319f9-03f9-492d-aa24-4ce8f560419c\" name=\"Changes\" comment=\"\" />\n      <created>1684560508865</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1684560508865</updated>\n      <workItem from=\"1684560510799\" duration=\"7713000\" />\n      <workItem from=\"1685161616016\" duration=\"25012000\" />\n      <workItem from=\"1685366973276\" duration=\"20742000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,9 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="648319f9-03f9-492d-aa24-4ce8f560419c" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+-    </list>
++    <list default="true" id="648319f9-03f9-492d-aa24-4ce8f560419c" name="Changes" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -85,6 +83,31 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++  <component name="GitToolBoxStore">
++    <option name="recentBranches">
++      <RecentBranches>
++        <option name="branchesForRepo">
++          <list>
++            <RecentBranchesForRepo>
++              <option name="branches">
++                <list>
++                  <RecentBranch>
++                    <option name="branchName" value="develop" />
++                    <option name="lastUsedInstant" value="1685445866" />
++                  </RecentBranch>
++                  <RecentBranch>
++                    <option name="branchName" value="week7" />
++                    <option name="lastUsedInstant" value="1685445865" />
++                  </RecentBranch>
++                </list>
++              </option>
++              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
++            </RecentBranchesForRepo>
++          </list>
++        </option>
++      </RecentBranches>
++    </option>
++  </component>
+   <component name="JpbToolWindowState">
+     <option name="isToolWindowVisible" value="false" />
+   </component>
+@@ -105,7 +128,6 @@
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "WebServerToolWindowFactoryState": "false",
+-    "git-widget-placeholder": "week7",
+     "jdk.selected.JAVA_MODULE": "11",
+     "last_directory_selection": "/Users/yunhanchoi/TemplerArchive/GOSOPT/gosoptseminar/seminar-domain/src/main/java",
+     "node.js.detected.package.eslint": "true",
+@@ -189,7 +211,7 @@
+       <updated>1684560508865</updated>
+       <workItem from="1684560510799" duration="7713000" />
+       <workItem from="1685161616016" duration="25012000" />
+-      <workItem from="1685366973276" duration="20742000" />
++      <workItem from="1685366973276" duration="21258000" />
+     </task>
+     <servers />
+   </component>
